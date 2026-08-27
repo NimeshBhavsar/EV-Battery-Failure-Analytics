@@ -22,6 +22,8 @@ This is useful for:
 The notebook expects a CSV dataset named:
 
 - `ev_battery_failure_dataset.csv`
+- 
+https://www.kaggle.com/datasets/sarveshchhetri/ev-battery-failure-prediction-dataset-200k?select=ev_battery_failure_dataset.csv
 
 The dataset contains approximately 200,000 EV records and 70+ features spanning:
 
